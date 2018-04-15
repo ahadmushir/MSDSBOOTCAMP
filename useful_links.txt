@@ -1,0 +1,7 @@
+Useful Links
+
+Azure ML Studio:
+https://studio.azureml.net/
+
+Azure Pass:
+https://www.microsoftazurepass.com/
